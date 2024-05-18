@@ -1,0 +1,4 @@
+StaffID,RoleID,Password,FirstName,LastName,Phone,Email
+825438,ADM,P@sSw()rD,Jeffery,Bezos,130065506,biggywiggy@bigpond.com
+736582,MAN,Pass123,Elon,Musk,140215894,elonmusk@spacex.com
+648237,ANA,SecurePwd123,Satya,Nadella,162055588,satyanadella@microsoft.com

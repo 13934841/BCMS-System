@@ -1,0 +1,9 @@
+,ReasonID,ReasonDescription
+0,0,Client
+1,1,Expert
+2,2,Dealer
+3,3,Signal
+4,4,Gateway
+5,5,Mobile
+6,6,Web
+7,7,API

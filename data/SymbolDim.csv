@@ -1,0 +1,114 @@
+,SymbolID,SymbolDescription,Type
+0,ALUMINIUM,Aluminium vs US Dollar,Commodity
+1,COPPER,Copper vs US Dollar,Commodity
+2,GAS,Natural Gas vs US Dollar,Commodity
+3,LEAD,Lead vs US Dollar,Commodity
+4,NICKEL,Nickel vs US Dollar,Commodity
+5,ZINC,Zinc vs US Dollar,Commodity
+6,BCHUSD,Bitcoin Cash vs US Dollar,Crypto
+7,BTCUSD,Bitcoin vs US Dollar,Crypto
+8,DOTUSD,Polkadot vs US Dollar,Crypto
+9,EOSUSD,EOS vs US Dollar,Crypto
+10,ETHUSD,Ethereum vs US Dollar,Crypto
+11,LNKUSD,Chainlink vs US Dollar,Crypto
+12,LTCUSD,Litecoin vs US Dollar,Crypto
+13,XLMUSD,Stellar Lumens vs US Dollar,Crypto
+14,XRPUSD,Ripple vs US Dollar,Crypto
+15,AUDCAD,Australian Dollar vs Canadian Dollar,Forex
+16,AUDCHF,Australian Dollar vs Swiss Franc,Forex
+17,AUDCNH,Australian Dollar vs Chinese offshore Yuan,Forex
+18,AUDHKD,Australian Dollar vs Hong Kong Dollar,Forex
+19,AUDJPY,Australian Dollar vs Japanese Yen,Forex
+20,AUDNZD,Australian Dollar vs New Zealand Dollar,Forex
+21,AUDSGD,Australian Dollar vs Singapore,Forex
+22,AUDUSD,Australian Dollar vs US Dollar,Forex
+23,CADCHF,Canadian Dollar vs Swiss Franc,Forex
+24,CADJPY,Canadian Dollar vs Japanese Yen,Forex
+25,CADSGD,Canadian Dollar vs Singapore Dollar,Forex
+26,CHFJPY,Swiss Franc vs Japanese Yen,Forex
+27,CHFSGD,Swiss Franc vs Singapore Dollar,Forex
+28,CNHJPY,Chinese offshore Yuan vs Japanese Yen,Forex
+29,EURAUD,Euro vs Australian Dollar,Forex
+30,EURCAD,Euro vs Canadian Dollar,Forex
+31,EURCHF,Euro vs Swiss Franc,Forex
+32,EURCNH,Euro vs Chinese offshore Yuan,Forex
+33,EURGBP,Euro vs Great Britain Pound,Forex
+34,EURHKD,Euro vs Hong Kong Dollar,Forex
+35,EURHUF,Euro vs Hungarian Forint,Forex
+36,EURJPY,Euro vs Japanese Yen,Forex
+37,EURMXN,Euro vs Mexican Peso,Forex
+38,EURNOK,Euro vs Norwegian Kroner,Forex
+39,EURNZD,Euro vs New Zealand Dollar,Forex
+40,EURSEK,Euro vs Swedish Krona,Forex
+41,EURSGD,Euro vs Singapore Dollar,Forex
+42,EURTRY,Euro vs Turkish Lira,Forex
+43,EURUSD,Euro vs US Dollar,Forex
+44,EURZAR,Euro vs South African Rand,Forex
+45,GBPAUD,Great Britain Pound vs Australian Dollar,Forex
+46,GBPCAD,Great Britain Pound vs Canadian Dollar,Forex
+47,GBPCHF,Great Britan Pound vs Swiss Franc,Forex
+48,GBPCNH,Great Britain Pound vs Chinese Offshore Yuan,Forex
+49,GBPHKD,Great Britain Pound vs HongKong Dollar,Forex
+50,GBPJPY,British Pound vs Japanese Yen,Forex
+51,GBPNOK,Great Britain Pound vs Norwegian Krone,Forex
+52,GBPNZD,Great Britan Pound vs New Zealand Dollar,Forex
+53,GBPSEK,Great Britain Pound vs Swedish Krona,Forex
+54,GBPSGD,Great Britain Pound vs Singapore Dollar,Forex
+55,GBPUSD,Great Britan Pound vs US Dollar,Forex
+56,NOKJPY,Norwegian Krone vs Japanese Yen,Forex
+57,NOKSEK,Norwegian Krone vs Swedish Krona,Forex
+58,NZDCAD,New Zealand Dollar vs Canadian Dollar,Forex
+59,NZDCHF,New Zealand Dollar vs Swiss Franc,Forex
+60,NZDCNH,New Zealand Dollar vs Chinese Offshore Yuan,Forex
+61,NZDJPY,New Zealand vs Japanise Yen,Forex
+62,NZDSGD,New Zealand Dollar vs Singapore Dollar,Forex
+63,NZDUSD,New Zealand Dollar vs US Dollar,Forex
+64,SGDJPY,Singapore Dollar vs Japanese Yen,Forex
+65,USDCAD,US Dollar vs Canadian Dollar,Forex
+66,USDCHF,US Dollar vs Swiss Franc,Forex
+67,USDCNH,US Dollar vs Chinese Yuan,Forex
+68,USDHKD,US Dollar vs HongKong Dollar,Forex
+69,USDHUF,US Dollar vs Hungarian Florint,Forex
+70,USDJPY,US Dollar vs Japanese Yen,Forex
+71,USDMXN,US Dollar vs Mexican Peso,Forex
+72,USDNOK,US Dollar vs Norwegian Kroner,Forex
+73,USDPLN,US Dollar vs Polish Zloty,Forex
+74,USDSEK,US Dollar vs Swedish Kroner,Forex
+75,USDSGD,US Dollar vs Singapore Dollar,Forex
+76,USDTHB,US Dollar vs Thai Baht,Forex
+77,USDTRY,US Dollar vs Turkish Lira,Forex
+78,USDZAR,US Dollar vs South African Rand,Forex
+79,ZARJPY,South African Rand vs Japanese Yen,Forex
+80,AU200,S&P/ASX 200 Cash,Index
+81,CHINA50,FTSE China A50 Index,Index
+82,CHINAH,China H-SHARES Index ,Index
+83,DJ30,Dow Jones 30 Cash,Index
+84,FR40,FRA40 Cash,Index
+85,GER30,GER30 Cash,Index
+86,HK50,Hang Seng Cash,Index
+87,INDIA50,INDIA50 Index Cash,Index
+88,JP225,Nikkei 225 Cash,Index
+89,JP225USD,Nikkei 225 Index USD Settlement,Index
+90,NAS100,US Tech 100 Cash,Index
+91,NETH25,Netherlands 25 Index,Index
+92,SP500,SPX500 Cash,Index
+93,STOXX50,EURO STOXX 50 Cash,Index
+94,SWISS20,Swiss 20 Index,Index
+95,UK100,UK100 Cash,Index
+96,US2000,US Small Cap 2000 Cash,Index
+97,USDIndex,US Dollar Basket Index,Index
+98,VIXIndex,CBOE Volatility Index,Index
+99,XAGAUD,Silver vs Australian Dollar,Metal
+100,XAGEUR,Silver vs Euro,Metal
+101,XAGSGD,Silver vs Singapore Dollar,Metal
+102,XAGUSD,Silver vs US Dollar,Metal
+103,XAUAUD,Gold vs Australian Dollar,Metal
+104,XAUCNH,Gold vs Chinese Offshore Yuan,Metal
+105,XAUEUR,Gold vs Euro,Metal
+106,XAUGBP,Gold vs Great Britain Pound,Metal
+107,XAUSGD,Gold vs Singapore Dollar,Metal
+108,XAUUSD,Gold vs US Dollar,Metal
+109,XPDUSD,Palladium vs US Dollar,Metal
+110,XPTUSD,Platinum vs US Dollar,Metal
+111,UKBRENT,Spot Brent Crude Oil,Oil
+112,USWTI,Spot WTI Crude Oil,Oil

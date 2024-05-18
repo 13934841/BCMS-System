@@ -1,0 +1,4 @@
+RoleID,Description,Permission
+ANA,Analyst,Read
+MAN,Manager,Read/Write
+ADM,Administrator,Full Access
